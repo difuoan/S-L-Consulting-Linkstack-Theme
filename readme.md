@@ -2,7 +2,7 @@
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: S&L Consulting Linkstack Theme
-*	Theme Version: 1.3
+*	Theme Version: 1.4
 *	Theme Date: 2024-06-24
 *	Theme Author: difuoan
 *	Theme Author URI: https://github.com/difuoan
